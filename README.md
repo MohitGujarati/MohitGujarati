@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohitGujarati
-- 👀 I’m interested in  native Android Development,I've been working on from last 1 year+ and  currently  looking for job in this field you can find some of my project here
-- 🌱 I’m also learning web Development 
-- 💞️ I’m looking to collaborate on Multiple Android Project
+- 👀 I’m interested in  native Android Development,I've been working on from last 1 year+ as freelancer and currently a trainee software Developer 
+- 🌱 If you find these repos helpful then don't forget to give a start ❇️ to those repos on Github  :)
+- 💞️ I’m also looking to collaborate on Multiple Android Project
 - 📫 How to reach me ? on my email- mohitgujarati11@gmail.com
 
 <!---
