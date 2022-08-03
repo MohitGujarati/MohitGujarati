@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MohitGujarati?tab=repositories](https://github.com/MohitGujarati?tab=repositories)
-
 - 💬 Ask me about **Android ,Kotlin ,Java**
 
 - 📫 How to reach me **mohitgujarati11@gmail.com**
