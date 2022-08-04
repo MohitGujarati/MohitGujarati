@@ -5,7 +5,7 @@
    >
  <img src="https://cdn.dribbble.com/users/124147/screenshots/2193587/media/1bdfe47933e02dd484268ffeb3dba692.gif" 
  width="850"
- height="400"
+ height="500"
   padding:  2000px  100px  100px 100px;
  />
 </h1>
