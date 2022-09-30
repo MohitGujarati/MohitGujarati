@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohit Gujarati</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
-<h1 align="center" 
-   >
+<h1 align="center" >
 
 </h1>
-- 📫 How to reach me **mohitgujarati11@gmail.com**
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
