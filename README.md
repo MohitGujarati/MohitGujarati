@@ -23,6 +23,9 @@ I'm a Master's student in Computer Engineering at Long Island University, specia
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitGujarati&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+
 ### Technologies & Frameworks
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -33,6 +36,8 @@ I'm a Master's student in Computer Engineering at Long Island University, specia
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitgujarati/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitgujarati11@gmail.com)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohitgujarati.github.io/Portfoliowebsite/)
+
+
 
 ## 🎓 Education
 **Master of Science in Computer Engineering**
