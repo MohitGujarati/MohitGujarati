@@ -1,11 +1,18 @@
-<h1 align="center">Hi, I'm Mohit Gujarati! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></h1>
+<h1 align="center">Hi, I'm Mohit Gujarati! </h1>
+
 <p align="center">
   <b>Software Engineer | Android Developer | Front-End Enthusiast</b><br>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Internships%20%7C%20Full--Time-4CAF50?style=for-the-badge&logo=google" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-Internships%20%7C%20Full--Time-1976D2?style=for-the-badge&logo=google" />
 </p>
 <p align="center">
-  <em>Building seamless, user-focused mobile & web experiences.</em>
+  <em>Building seamless, user-focused mobile experience.</em>
 </p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1976D2&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=%E2%AD%90+Open+to+Internships+and+Full-Time+Opportunities!+%E2%AD%90" alt="Animated Badge: Open to Internships and Full-Time Opportunities!"/>
+</p>
+
 
 ---
 
@@ -78,7 +85,6 @@
 
 **Frameworks & Tools**  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
