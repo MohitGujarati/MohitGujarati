@@ -1,7 +1,6 @@
 # Mohit Gujarati | Software Engineer | Android Developer
 
-# ⭐ I'm Open For Summer Internships 2025 ⭐
-
+# ⭐ I Am Open to Internships and Full-Time Opportunities ⭐
 ## 🎓 About Me
 I'm a Master's student in Computer Engineering at Long Island University, specializing in Android development and front-end design. With a passion for creating innovative, user-focused mobile solutions, I bring hands-on experience in developing high-performance Android applications and web interfaces.
 
