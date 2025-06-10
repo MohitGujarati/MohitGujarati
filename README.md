@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Mohit Gujarati! </h1>
 
+
 <p align="center">
   <b>Software Engineer | Android Developer | Front-End Enthusiast</b><br>
 <img src="https://img.shields.io/badge/Open%20to%20Work-Internships%20%7C%20Full--Time-1976D2?style=for-the-badge&logo=google" />
