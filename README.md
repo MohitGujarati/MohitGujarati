@@ -1,5 +1,12 @@
-<h1 align="center">Hi, I'm Mohit Gujarati! </h1>
 
+
+<div align="center">
+<img width="35%" height="700" alt="portfolio-video" src="https://github.com/user-attachments/assets/339cb6fe-64b2-4b74-988e-3f1363bbd653" />
+</div>
+
+<br>
+<br>
+<br>
 
 <p align="center">
   <b>Software Engineer | Android Developer | Front-End Enthusiast</b><br>
