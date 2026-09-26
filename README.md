@@ -21,7 +21,7 @@
 <p align="center"><i>Passionate about building the next generation of user-centered apps.</i></p>
 
 <p align="center">
-  <a href="https://mohitgujarati.github.io/Portfoliowebsite/">
+  <a href="https://mohitgujarati.vercel.app/">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio_Website-c8f560?style=for-the-badge&logoColor=black&labelColor=0c0d10&color=c8f560" alt="Portfolio" />
   </a>
 </p>
