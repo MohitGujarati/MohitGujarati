@@ -10,7 +10,9 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="45%" valign="middle" align="center">
+ <a href="https://mohitgujarati.vercel.app/">
   <img width="100%" alt="portfolio-video" src="https://github.com/user-attachments/assets/339cb6fe-64b2-4b74-988e-3f1363bbd653" />
+</a>
 </td>
     <td width="55%" valign="top">
       <h2>👨‍💻 About Me</h2>
