@@ -18,7 +18,7 @@
       <h2>👨‍💻 About Me</h2>
       <ul>
         <li>📍 Based in Arizona and New York, USA | Roots in India</li>
-        <li>🎓 Master's student in Computer Engineering @ <b>Long Island University, Brooklyn</b> (2024 - 2026)</li>
+        <li>🎓 Master's in Computer Science Engineer @ <b>Long Island University, Brooklyn</b> (2024 - 2026)</li>
         <li>📱 Specialized in <b>Android development and web-development</b></li>
         <li>🚀 Passionate about tech that improves daily life</li>
       </ul>
