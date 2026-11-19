@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Mohit Gujarati! </h1>
+<h1 align="center">Hi, I'm Mohit Gujarati!</h1>
+<p align="center">
+  <img src="https://brand.github.com/images/glasses.gif" alt="Glasses animation" width="400" />
+</p>
+
 <br>
+
 <p align="center">
   <b>Software Engineer | Android Developer | Full-Stack Enthusiast</b><br><br>
 <img src="https://img.shields.io/badge/Open%20to%20Work%20%7C%20Full--Time-FF0000?style=for-the-badge" />
