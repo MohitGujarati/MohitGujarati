@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohit Gujarati!</h1>
 <p align="center">
-  <img src="https://brand.github.com/images/glasses.gif" alt="Glasses animation" width="400" />
+  <img src="https://brand.github.com/images/repo.gif" alt="Glasses animation" width="200" />
 </p>
 
 <br>
